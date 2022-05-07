@@ -32,10 +32,5 @@
 </p>
 
 
-<h2><strong>📞 Contact Me: </strong></h2>
+<h2><strong> Discord: </strong></h2>
 <a href="https://discord.com/users/950723079062044682"><img align="left" src="https://lanyard.cnrad.dev/api/950723079062044682"></a>
-
-
-  ![Snake animation](https://github.com/3jbh/3jbh/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
