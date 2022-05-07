@@ -15,14 +15,14 @@
 </h1>
 
 
-<h2><strong>  Languages: </strong></h2>
+<h2><strong> Languages: </strong></h2>
 
 
 
 <img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/c/5/a/c5acf1685bdf34d1d721c0c5ec8fc3c4e8c80b03.png" alt="LuaU" width="40" height="40"/> 
 
 
- <h2><strong>⚙ Analytics </strong></h2>
+ <h2><strong> Analytics </strong></h2>
 
 <p align="center">
 <a href="https://github.com/leg1337">
@@ -32,7 +32,10 @@
 </p>
 
 
-<h2><strong> Need to contact me? </strong></h2>
-<a href="https://discord.com/users/830527702854402068"><img align="left" src="https://lanyard.cnrad.dev/api/830527702854402068"></a>
+<h2><strong>📞 Contact Me: </strong></h2>
+<a href="https://discord.com/users/923563369989046324"><img align="left" src="https://lanyard.cnrad.dev/api/923563369989046324"></a>
+
+
+  ![Snake animation](https://github.com/3JBH/3JBH/blob/output/github-contribution-grid-snake.svg)
  
 </div>
