@@ -15,11 +15,11 @@
 </h1>
 
 
-<h2 align = "center"><strong> Languages -->  </strong></h2>
+<h2 align = "center"><strong> Languages:  </strong></h2>
 
 
 
-<img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/c/5/a/c5acf1685bdf34d1d721c0c5ec8fc3c4e8c80b03.png" alt="LuaU" width="40" height="40"/> 
+<h2 align = "center"<img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/c/5/a/c5acf1685bdf34d1d721c0c5ec8fc3c4e8c80b03.png" alt="LuaU" width="40" height="40"/></h2>
 
 
  <h2><strong> Analytics -->  </strong></h2>
