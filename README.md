@@ -33,7 +33,7 @@
 
 
 <h2><strong>📞 Contact Me: </strong></h2>
-<a href="https://discord.com/users/923563369989046324"><img align="left" src="https://lanyard.cnrad.dev/api/923563369989046324"></a>
+<a href="https://discord.com/users/830527702854402068"><img align="left" src="https://lanyard.cnrad.dev/api/830527702854402068"></a>
 
 
   ![Snake animation](https://github.com/3JBH/3JBH/blob/output/github-contribution-grid-snake.svg)
