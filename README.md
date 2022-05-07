@@ -36,6 +36,6 @@
 <a href="https://discord.com/users/950723079062044682"><img align="left" src="https://lanyard.cnrad.dev/api/950723079062044682"></a>
 
 
-  ![Snake animation](https://github.com/3JBH/3JBH/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/leg1337/leg1337/blob/output/github-contribution-grid-snake.svg)
  
 </div>
