@@ -15,7 +15,7 @@
 </h1>
 
 
-<h2><strong> Languages -->  </strong></h2>
+<h2 align = "center"><strong> Languages -->  </strong></h2>
 
 
 
