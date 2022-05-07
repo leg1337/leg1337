@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
