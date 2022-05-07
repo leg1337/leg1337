@@ -5,11 +5,11 @@
   legendary
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif"  width="24px" style="max-width:100%;">
-    <p align="center">  
+    <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=leg1337" alt="leg1337" />
   <img alt="Followers" src="https://img.shields.io/github/followers/leg1337?style=social">    
 </p>
-<p align="center">  
+<p align="left">  
  </p>
   </a>
 </h1>
@@ -24,7 +24,7 @@
 
  <h2><strong> Analytics -->  </strong></h2>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/leg1337">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leg1337&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leg1337&layout=compact&langs_count=7&theme=midnight-purple"/>
